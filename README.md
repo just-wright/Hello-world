@@ -17,4 +17,4 @@ In order to do so, however, he needed to acquire the skills necessary. Therefore
 [my_future_portfolio_site](https://www.mein-site.com)
 ![My Hero](revan.jpg)
 
-==Consistency== is the game.
+Note to self: ==Consistency== is the game.
